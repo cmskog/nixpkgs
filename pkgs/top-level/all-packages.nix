@@ -24195,6 +24195,8 @@ in
 
   opkg-utils = callPackage ../tools/package-management/opkg-utils { };
 
+  opmsg = callPackage ../tools/security/opmsg {};
+
   pgmanage = callPackage ../applications/misc/pgmanage { };
 
   pgadmin = callPackage ../applications/misc/pgadmin { };

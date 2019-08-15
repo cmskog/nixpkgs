@@ -1271,6 +1271,15 @@
     githubId = 20808761;
     name = "cmfwyp";
   };
+  cmskog = {
+    email = "cm@äger.com";
+    github = "cmskog";
+    name = "Carl Michael Skog";
+    keys = [{
+      longkeyid = "ed25519/0xA13482C71E625676";
+      fingerprint = "0948 B195 45AF BFD2 7708  1CD4 A134 82C7 1E62 5676";
+    }];
+  };
   cobbal = {
     email = "andrew.cobb@gmail.com";
     github = "cobbal";
