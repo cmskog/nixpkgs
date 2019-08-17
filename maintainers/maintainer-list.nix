@@ -1274,6 +1274,7 @@
   cmskog = {
     email = "cm@äger.com";
     github = "cmskog";
+    githubId = 2486383;
     name = "Carl Michael Skog";
     keys = [{
       longkeyid = "ed25519/0xA13482C71E625676";
